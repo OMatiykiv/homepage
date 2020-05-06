@@ -1,0 +1,10 @@
+.avatar:hover {
+  transform: scaleX(-1);
+  transition: ease-in-out .25s;
+}
+.contacts li a.twitter:hover {
+  color: rgb(45, 170, 226);
+}
+.contacts li a.instagram:hover {
+  color: rgb(205, 73, 113);
+}
